@@ -34,7 +34,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📚 Lista dos Desafios
 
-### A linguangem é um mero detalhe! Praticando logica com desafios de código
+### A linguagem é um mero detalhe! Praticando logica com desafios de código
 
 - Seus Primeiros Ifs com Java [veja aqui](./desafio1/Main.java)
 - Conhecendo a Sintaxe do C# [veja aqui](./desafio2/Main.cs)

@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Java
 - C#
--JavaScript
+- JavaScript
 - Python
 - Kotlin
 

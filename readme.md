@@ -34,10 +34,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📚 Lista dos Desafios
 
-### Dominando algoritmos básicos com desafios de código Java
+### A linguangem é um mero detalhe! Praticando logica com desafios de código
 
 - Seus Primeiros Ifs com Java [veja aqui](./desafio1/Main.java)
 - Conhecendo a Sintaxe do C# [veja aqui](./desafio2/Main.cs)
-- Funções na Prática em JavaScript [veja aqui](./desafio3/)
+- Funções na Prática em JavaScript [veja aqui](./desafio3/Main.js)
 - Meu Primeiro Código Python [veja aqui](./desafio4/)
 - Simplificando a Orientação a Objetos com Kotlin [veja aqui](./desafio5/)

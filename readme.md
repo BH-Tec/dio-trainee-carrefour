@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Conhecendo a Sintaxe do C# [veja aqui](./desafio2/Main.cs)
 - Funções na Prática em JavaScript [veja aqui](./desafio3/Main.js)
 - Meu Primeiro Código Python [veja aqui](./desafio4/Main.py)
-- Simplificando a Orientação a Objetos com Kotlin [veja aqui](./desafio5/)
+- Simplificando a Orientação a Objetos com Kotlin [veja aqui](./desafio5/Main.kt)

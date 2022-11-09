@@ -1,6 +1,10 @@
 <h1 align="center">
-  GFT Quality Assurance Para Mulheres
+  Trainee Grupo Carrefour Brasil - Liderança Negra
 </h1>
+
+<h2 align="center">
+  <img src="./assets/trainee-carrefour.webp" width="250px">
+</h2>
 
 <p align="center">
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
